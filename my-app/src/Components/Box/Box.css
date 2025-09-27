@@ -1,0 +1,19 @@
+/* vanila css */
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+}
+.box-small{
+width: 50px;
+height: 50px;
+}
+.box-medium{
+width: 75px;
+height: 75px;
+}
+.box-large{
+width: 100px;
+height: 100px;
+}
